@@ -6,7 +6,7 @@ const request = require('request');
 
 const ytdl = require('ytdl-core');
 
-const token = 'NjYwMjc2MDU3ODAyMjc2ODg0.Xio0cw.otg8f823I7TSiVcFQSAk35x4J3Y';
+const token = 'NjYwMjc2MDU3ODAyMjc2ODg0.Xitr0A.m6iMPV3CSqfQpnPHz2pHe_iDOz0';
 
 const PREFIX = '*';
 
